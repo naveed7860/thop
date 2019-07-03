@@ -1,8 +1,8 @@
 number=(int(input())
 	if(number%2!=0):
-	print("Positive")
+	print("Odd")
 	elseif(number%2==0):
-	print("Negative")
+	print("Even")
 	else:
 	print("invalid")
 	
